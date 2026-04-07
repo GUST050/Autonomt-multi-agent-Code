@@ -40,3 +40,6 @@ cd Autonomt-multi-agent-Code
 
 cp .env.example .env
 pip install -e .
+
+Add your API keys in .env, then run:
+Bashpython src/main.py
